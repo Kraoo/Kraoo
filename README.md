@@ -1,8 +1,6 @@
 <h1 align="center">Hello 🖤 I'm Ian</h1>
 <h3 align="center">A learning developer, Chess enthusiast, and Video Game addict lol</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kraoo&label=Profile%20views&color=0e75b6&style=flat" alt="kraoo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kraoo&theme=onedark" alt="kraoo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kraooooo" target="blank"><img src="https://img.shields.io/twitter/follow/kraooooo?logo=twitter&style=for-the-badge" alt="kraooooo" /></a> </p>
