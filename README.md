@@ -25,6 +25,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kraoo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kraoo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kraoo&show_icons=true&theme=synthwave&locale=en" alt="kraoo" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kraoo&theme=dark" alt="kraoo" /></p>
