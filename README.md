@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kraooooo" target="blank"><img src="https://img.shields.io/twitter/follow/kraooooo?logo=twitter&style=for-the-badge" alt="kraooooo" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Soon Typescript, and one day Rust**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **thomas16029@gmail.com**
 
