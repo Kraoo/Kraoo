@@ -1,11 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=F71283&center=true&random=false&width=435&lines=Welcome+to+my+Github;I'm+learning+JS+%26+Rust;I've+studied+C%2B%2B+%26+Python;I'm+following+FCC+%26+TOP;Enjoy+my+projects+and;Check+out+my+portfolio!" alt="Typing SVG" /></a>
+
 <p align="left"> <a href="https://github.com/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kraoo&theme=dark_lover" alt="kraoo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kraooooo" target="blank"><img src="https://img.shields.io/twitter/follow/kraooooo?logo=twitter&style=for-the-badge" alt="kraooooo" /></a> </p>
-
-- 📚 I’m learning **JavaScript**
-
-- 📫 **thomas16029@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
