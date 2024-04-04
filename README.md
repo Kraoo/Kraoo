@@ -1,6 +1,15 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=F71283&center=true&random=false&width=435&lines=Welcome+to+my+Github;I'm+learning+JS+%26+Rust;I've+studied+C%2B%2B+%26+Python;I'm+following+FCC+%26+TOP;Enjoy+my+projects+and;Check+out+my+portfolio!" alt="Typing SVG" /></a>
+<h1 align="center">Welcome, I'm Ian♟️</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=45&pause=1000&color=F71F66&center=true&vCenter=true&random=false&width=1200&lines=Welcome+to+my+Github;I+play+a+lot+of+games+%26+Chess;Learning+%26+Building+with+JS;Inoltre+sto+imparando+l'italiano;Sto+imparando+per+la+mia+ragazza;Un+giorno+voglio+imparare+Francese%2C+Tedesco;Spagnolo+e+forse+Russo;I+hope+you+enjoy+my+projects%2C+fun+building+everyone!)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kraoo&theme=dark_lover" alt="kraoo" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kraooooo" target="blank"><img src="https://img.shields.io/twitter/follow/kraooooo?logo=twitter&style=for-the-badge" alt="kraooooo" /></a> </p>
+
+- 🌱 I’m learning **JavaScript** & **Rust**
+
+- 📫 **thomas16029@gmail.com**
+
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
