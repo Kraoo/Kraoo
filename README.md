@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I'm Ian♟️</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=45&pause=1000&color=F71F66&center=true&vCenter=true&random=false&width=1200&lines=Welcome+to+my+Github;I+play+a+lot+of+games+%26+Chess;Learning+%26+Building+with+JS;Inoltre+sto+imparando+l'italiano;Sto+imparando+per+la+mia+ragazza;Un+giorno+voglio+imparare+Francese%2C+Tedesco;Spagnolo+e+forse+Russo;I+hope+you+enjoy+my+projects%2C+fun+building+everyone!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=45&pause=1000&color=F71F66&center=true&vCenter=true&random=false&width=1200&lines=Welcome+to+my+Github;I+play+a+lot+of+games+%26+Chess;Learning+%26+Building+with+JS;Inoltre+sto+imparando+l'italiano,;Sto+imparando+per+la+mia+ragazza,;Un+giorno+voglio+imparare+Francese%2C+Tedesco,;Spagnolo+e+forse+Russo,;I+hope+you+enjoy+my+projects%2C+fun+building+everyone!)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kraoo&theme=dark_lover" alt="kraoo" /></a> </p>
 
