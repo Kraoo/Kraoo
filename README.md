@@ -14,6 +14,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
+      <br>REACT
+   <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     <td align="center" width="96">
