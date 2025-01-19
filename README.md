@@ -15,7 +15,7 @@
 <table>
    <td align="center"  width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
-      <br>REACT
+      <br>React
    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
