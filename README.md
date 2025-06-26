@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kraooooo" target="blank"><img src="https://img.shields.io/twitter/follow/kraooooo?logo=twitter&style=for-the-badge" alt="kraooooo" /></a> </p>
 
-- 🌱 I’m learning **JavaScript** & **Rust**
+- 🌱 I’m learning **Python** & **React**
 
 - 📫 **thomas16029@gmail.com**
 
