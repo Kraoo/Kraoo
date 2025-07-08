@@ -1,16 +1,14 @@
 <h1 align="center">I code, therefore I cry</h1>
 
+![Static Badge](https://img.shields.io/badge/linkedin-blue.svg?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fianshthomas%2F)
+![Static Badge](https://img.shields.io/badge/portfolio-maroon.svg?style=for-the-badge&link=https%3A%2F%2Fkraoo.github.io%2FPortfolio%2F)
+![Static Badge](https://img.shields.io/badge/email-thomas160269%40gmail.com-violet.svg?style=for-the-badge)
+
 <p align="center">
   <a href="https://github.com/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kraoo&theme=dark_lover&margin-w=10&margin-h=10&no-frame=true" alt="kraoo trophies" />
   </a>
 </p>
-
----
-
-### 📫 Contact Me
-
-**Email:** thomas16029@gmail.com
 
 ---
 
