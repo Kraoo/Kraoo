@@ -17,6 +17,10 @@
 <table>
   <tr>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br />React
     </td>
@@ -27,10 +31,6 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
       <br />CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br />Python
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
